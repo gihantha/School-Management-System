@@ -1,0 +1,37 @@
+.border-right-primary {
+    border-right: 0.75rem solid #4e73df !important;
+}
+
+.border-right-secondary {
+    border-right: 0.75rem solid #858796 !important;
+}
+
+.border-right-success {
+    border-right: 0.75rem solid #1cc88a !important;
+}
+
+.border-right-info {
+    border-right: 0.75rem solid #36b9cc !important;
+}
+
+.border-right-warning {
+    border-right: 0.75rem solid #f6c23e !important;
+}
+
+.border-right-danger {
+    border-right: 0.75rem solid #e74a3b !important;
+}
+
+form.student .form-control-student{
+    font-size: 0.8rem;
+    border-radius: 10px;
+    padding: 1.5rem 1rem;
+}
+
+.form-control-student:focus{
+    color: #4257f0;
+    background-color: rgb(104, 223, 217);
+    border-color: #f6c23e;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(12, 17, 11 / 25%);
+}
